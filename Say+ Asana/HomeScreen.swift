@@ -12,17 +12,27 @@ class HomeScreen: UIViewController {
     @IBOutlet weak var getStartedButton: UIButton!
     
     @IBOutlet weak var directionButton: UIButton!
-    
+        
+    @IBOutlet var directionScreenView: UIView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-        
-
+                
+       // view.overrideUserInterfaceStyle = .light
+        if #available(iOS 13.0, *) {
+                // prefer a light interface style with this:
+                overrideUserInterfaceStyle = .light
+        }
         
     }
 
+    @IBAction func backButtonPressed(_ sender: Any) {
+        //performSegue(withIdentifier: "Home Screen", sender: self)
+        dismiss(animated: true)
+        
 
+    }
+    
     
 
 }
