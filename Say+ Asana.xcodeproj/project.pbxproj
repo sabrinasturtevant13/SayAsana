@@ -9,21 +9,53 @@
 /* Begin PBXBuildFile section */
 		65E416F02847B93200E96177 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65E416EF2847B93200E96177 /* AppDelegate.swift */; };
 		65E416F22847B93200E96177 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65E416F12847B93200E96177 /* SceneDelegate.swift */; };
-		65E416F42847B93200E96177 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65E416F32847B93200E96177 /* ViewController.swift */; };
+		65E416F42847B93200E96177 /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65E416F32847B93200E96177 /* HomeScreen.swift */; };
 		65E416F72847B93200E96177 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65E416F52847B93200E96177 /* Main.storyboard */; };
 		65E416F92847B93300E96177 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65E416F82847B93300E96177 /* Assets.xcassets */; };
 		65E416FC2847B93300E96177 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65E416FA2847B93300E96177 /* LaunchScreen.storyboard */; };
+		65E417132847BF9100E96177 /* FilsonProLight-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 65E417032847BF9100E96177 /* FilsonProLight-Light.otf */; };
+		65E417142847BF9100E96177 /* FilsonProLightItalic-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 65E417042847BF9100E96177 /* FilsonProLightItalic-Italic.otf */; };
+		65E417152847BF9100E96177 /* FilsonProHeavy-Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = 65E417052847BF9100E96177 /* FilsonProHeavy-Heavy.otf */; };
+		65E417162847BF9100E96177 /* FilsonProThin-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 65E417062847BF9100E96177 /* FilsonProThin-Thin.otf */; };
+		65E417172847BF9100E96177 /* FilsonProBold-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 65E417072847BF9100E96177 /* FilsonProBold-Bold.otf */; };
+		65E417182847BF9100E96177 /* FilsonProBoldItalic-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 65E417082847BF9100E96177 /* FilsonProBoldItalic-Italic.otf */; };
+		65E417192847BF9100E96177 /* FilsonProHeavyItalic-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 65E417092847BF9100E96177 /* FilsonProHeavyItalic-Italic.otf */; };
+		65E4171A2847BF9100E96177 /* FilsonProBook-Book.otf in Resources */ = {isa = PBXBuildFile; fileRef = 65E4170A2847BF9100E96177 /* FilsonProBook-Book.otf */; };
+		65E4171B2847BF9100E96177 /* FilsonProThinItalic-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 65E4170B2847BF9100E96177 /* FilsonProThinItalic-Italic.otf */; };
+		65E4171C2847BF9100E96177 /* FilsonProBlack-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 65E4170C2847BF9100E96177 /* FilsonProBlack-Black.otf */; };
+		65E4171D2847BF9100E96177 /* FilsonProMedium-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 65E4170D2847BF9100E96177 /* FilsonProMedium-Medium.otf */; };
+		65E4171E2847BF9100E96177 /* FilsonProMediumItalic-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 65E4170E2847BF9100E96177 /* FilsonProMediumItalic-Italic.otf */; };
+		65E4171F2847BF9100E96177 /* FilsonProBookItalic-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 65E4170F2847BF9100E96177 /* FilsonProBookItalic-Italic.otf */; };
+		65E417202847BF9100E96177 /* FilsonProBlackItalic-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 65E417102847BF9100E96177 /* FilsonProBlackItalic-Italic.otf */; };
+		65E417212847BF9100E96177 /* FilsonProRegular-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 65E417112847BF9100E96177 /* FilsonProRegular-Regular.otf */; };
+		65E417222847BF9100E96177 /* FilsonProRegularItalic-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 65E417122847BF9100E96177 /* FilsonProRegularItalic-Italic.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		65E416EC2847B93200E96177 /* Say+ Asana.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Say+ Asana.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		65E416EF2847B93200E96177 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65E416F12847B93200E96177 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		65E416F32847B93200E96177 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		65E416F32847B93200E96177 /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
 		65E416F62847B93200E96177 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		65E416F82847B93300E96177 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		65E416FB2847B93300E96177 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		65E416FD2847B93300E96177 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65E417032847BF9100E96177 /* FilsonProLight-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FilsonProLight-Light.otf"; sourceTree = "<group>"; };
+		65E417042847BF9100E96177 /* FilsonProLightItalic-Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FilsonProLightItalic-Italic.otf"; sourceTree = "<group>"; };
+		65E417052847BF9100E96177 /* FilsonProHeavy-Heavy.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FilsonProHeavy-Heavy.otf"; sourceTree = "<group>"; };
+		65E417062847BF9100E96177 /* FilsonProThin-Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FilsonProThin-Thin.otf"; sourceTree = "<group>"; };
+		65E417072847BF9100E96177 /* FilsonProBold-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FilsonProBold-Bold.otf"; sourceTree = "<group>"; };
+		65E417082847BF9100E96177 /* FilsonProBoldItalic-Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FilsonProBoldItalic-Italic.otf"; sourceTree = "<group>"; };
+		65E417092847BF9100E96177 /* FilsonProHeavyItalic-Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FilsonProHeavyItalic-Italic.otf"; sourceTree = "<group>"; };
+		65E4170A2847BF9100E96177 /* FilsonProBook-Book.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FilsonProBook-Book.otf"; sourceTree = "<group>"; };
+		65E4170B2847BF9100E96177 /* FilsonProThinItalic-Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FilsonProThinItalic-Italic.otf"; sourceTree = "<group>"; };
+		65E4170C2847BF9100E96177 /* FilsonProBlack-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FilsonProBlack-Black.otf"; sourceTree = "<group>"; };
+		65E4170D2847BF9100E96177 /* FilsonProMedium-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FilsonProMedium-Medium.otf"; sourceTree = "<group>"; };
+		65E4170E2847BF9100E96177 /* FilsonProMediumItalic-Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FilsonProMediumItalic-Italic.otf"; sourceTree = "<group>"; };
+		65E4170F2847BF9100E96177 /* FilsonProBookItalic-Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FilsonProBookItalic-Italic.otf"; sourceTree = "<group>"; };
+		65E417102847BF9100E96177 /* FilsonProBlackItalic-Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FilsonProBlackItalic-Italic.otf"; sourceTree = "<group>"; };
+		65E417112847BF9100E96177 /* FilsonProRegular-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FilsonProRegular-Regular.otf"; sourceTree = "<group>"; };
+		65E417122847BF9100E96177 /* FilsonProRegularItalic-Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FilsonProRegularItalic-Italic.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +90,37 @@
 			children = (
 				65E416EF2847B93200E96177 /* AppDelegate.swift */,
 				65E416F12847B93200E96177 /* SceneDelegate.swift */,
-				65E416F32847B93200E96177 /* ViewController.swift */,
+				65E416F32847B93200E96177 /* HomeScreen.swift */,
 				65E416F52847B93200E96177 /* Main.storyboard */,
 				65E416F82847B93300E96177 /* Assets.xcassets */,
 				65E416FA2847B93300E96177 /* LaunchScreen.storyboard */,
 				65E416FD2847B93300E96177 /* Info.plist */,
+				65E417232847BF9B00E96177 /* fonts */,
 			);
 			path = "Say+ Asana";
+			sourceTree = "<group>";
+		};
+		65E417232847BF9B00E96177 /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				65E4170C2847BF9100E96177 /* FilsonProBlack-Black.otf */,
+				65E417102847BF9100E96177 /* FilsonProBlackItalic-Italic.otf */,
+				65E417072847BF9100E96177 /* FilsonProBold-Bold.otf */,
+				65E417082847BF9100E96177 /* FilsonProBoldItalic-Italic.otf */,
+				65E4170A2847BF9100E96177 /* FilsonProBook-Book.otf */,
+				65E4170F2847BF9100E96177 /* FilsonProBookItalic-Italic.otf */,
+				65E417052847BF9100E96177 /* FilsonProHeavy-Heavy.otf */,
+				65E417092847BF9100E96177 /* FilsonProHeavyItalic-Italic.otf */,
+				65E417032847BF9100E96177 /* FilsonProLight-Light.otf */,
+				65E417042847BF9100E96177 /* FilsonProLightItalic-Italic.otf */,
+				65E4170D2847BF9100E96177 /* FilsonProMedium-Medium.otf */,
+				65E4170E2847BF9100E96177 /* FilsonProMediumItalic-Italic.otf */,
+				65E417112847BF9100E96177 /* FilsonProRegular-Regular.otf */,
+				65E417122847BF9100E96177 /* FilsonProRegularItalic-Italic.otf */,
+				65E417062847BF9100E96177 /* FilsonProThin-Thin.otf */,
+				65E4170B2847BF9100E96177 /* FilsonProThinItalic-Italic.otf */,
+			);
+			path = fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +181,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65E417212847BF9100E96177 /* FilsonProRegular-Regular.otf in Resources */,
+				65E417172847BF9100E96177 /* FilsonProBold-Bold.otf in Resources */,
+				65E4171C2847BF9100E96177 /* FilsonProBlack-Black.otf in Resources */,
+				65E4171B2847BF9100E96177 /* FilsonProThinItalic-Italic.otf in Resources */,
+				65E417162847BF9100E96177 /* FilsonProThin-Thin.otf in Resources */,
+				65E417132847BF9100E96177 /* FilsonProLight-Light.otf in Resources */,
+				65E417202847BF9100E96177 /* FilsonProBlackItalic-Italic.otf in Resources */,
+				65E4171F2847BF9100E96177 /* FilsonProBookItalic-Italic.otf in Resources */,
+				65E417142847BF9100E96177 /* FilsonProLightItalic-Italic.otf in Resources */,
 				65E416FC2847B93300E96177 /* LaunchScreen.storyboard in Resources */,
 				65E416F92847B93300E96177 /* Assets.xcassets in Resources */,
+				65E4171A2847BF9100E96177 /* FilsonProBook-Book.otf in Resources */,
+				65E417192847BF9100E96177 /* FilsonProHeavyItalic-Italic.otf in Resources */,
+				65E4171D2847BF9100E96177 /* FilsonProMedium-Medium.otf in Resources */,
+				65E4171E2847BF9100E96177 /* FilsonProMediumItalic-Italic.otf in Resources */,
+				65E417152847BF9100E96177 /* FilsonProHeavy-Heavy.otf in Resources */,
 				65E416F72847B93200E96177 /* Main.storyboard in Resources */,
+				65E417222847BF9100E96177 /* FilsonProRegularItalic-Italic.otf in Resources */,
+				65E417182847BF9100E96177 /* FilsonProBoldItalic-Italic.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +210,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				65E416F42847B93200E96177 /* ViewController.swift in Sources */,
+				65E416F42847B93200E96177 /* HomeScreen.swift in Sources */,
 				65E416F02847B93200E96177 /* AppDelegate.swift in Sources */,
 				65E416F22847B93200E96177 /* SceneDelegate.swift in Sources */,
 			);
