@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>FilsonProBlack-Black.otf</string>
+		<string>FilsonProBold-Bold.otf</string>
+		<string>FilsonProHeavy-Heavy.otf</string>
+		<string>FilsonProBlackItalic-Italic.otf</string>
+		<string>FilsonProBoldItalic-Italic.otf</string>
+		<string>FilsonProBook-Book.otf</string>
+		<string>FilsonProBookItalic-Italic.otf</string>
+		<string>FilsonProHeavyItalic-Italic.otf</string>
+		<string>FilsonProLight-Light.otf</string>
+		<string>FilsonProLightItalic-Italic.otf</string>
+		<string>FilsonProMedium-Medium.otf</string>
+		<string>FilsonProMediumItalic-Italic.otf</string>
+		<string>FilsonProRegular-Regular.otf</string>
+		<string>FilsonProRegularItalic-Italic.otf</string>
+		<string>FilsonProThin-Thin</string>
+		<string>FilsonProThinItalic-Italic</string>
+	</array>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Main</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>
